@@ -8,3 +8,4 @@ Following the model training, predictions are made on both the training and test
 
 Descripion about the second model which is arun_model_v2
 
+The model's accuracy and effectiveness are measured using confusion matrices, accuracy scores, and F1-scores for both classes (malignant and benign). The results reveal a perfect accuracy score and F1-scores on the training data, indicating that the model has learned the training data very well. However, the testing data shows a slightly lower accuracy with some misclassifications, yet it still achieves high F1-scores, demonstrating the model's strong capability in generalizing to unseen data. These metrics suggest that the Decision Tree classifier performs effectively in classifying breast cancer, making it a valuable tool for medical diagnosis.
